@@ -38,13 +38,16 @@ body {
     font-style: italic;
 }
 
-.article {
+.article {width: 70%;
+    margin: auto;
 }
-.article figure {
+.article figure {margin-left: 0;
 }
-.article figure img {
+.article figure img {width: 90%;
 }
-.article figure figcaption {
+.article figure figcaption {margin-left: -12em;
+    width: 11.5em;
+    float: left;
 }
 
 #map {
