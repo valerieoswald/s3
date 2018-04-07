@@ -51,8 +51,11 @@ body {
     float: left;
 }
 
-#map {
-}
+#map {width: 90%;
+    height: 360px;
+    border: 1px solid gray;
+     }
+
 
 #footer {padding: 1em 0 3em 0;
 }
